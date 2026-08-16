@@ -1,0 +1,16 @@
+# VS Code
+ .vscode/
+
+#Operating system files
+ .DS_store
+ Thumbs.db
+
+#logs
+ *.log
+
+#Env/secrets
+ .env 
+ .env.*
+
+#node dependencies
+ node_modules/
